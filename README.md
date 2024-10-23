@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dce7fe8d-5453-414c-a23b-5933e42751a3" alt="图 7 使用傅里叶描述子（30个）对Minist数据集可视化">
 </p>
-<p align="center">图 7 使用傅里叶描述子（30个）对Minist数据集可视化</p>  
+<p align="center">图 7 使用傅里叶描述子（40个）对Minist数据集可视化</p>  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f67e81ec-25c3-4873-a917-cc8b3bd181b3" alt="图 8 使用傅里叶描述子（50个）对Minist数据集可视化">
